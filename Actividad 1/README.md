@@ -9,9 +9,9 @@ datos sensibles que se envían.
 4. ¿A qué puerto se reciben normalmente las peticiones del protocolo HTTP? ¿A qué
 capa del modelo TCP/IP se encuentra el protocolo HTTP? ¿Y los protocolos TCP,
 UDP, e IP?
-Normalmente se reciben en el puerto 80
-
-
+-Normalmente se reciben en el puerto 80
+-Capa 4 o de aplicación
+-En la capa de transporte del modelo TCP/IP 
 
 5. ¿Cuál es el significado de la siguiente respuesta de un servidor?
 HTTP/1.1 302 Found
