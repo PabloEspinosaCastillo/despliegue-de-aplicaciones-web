@@ -18,7 +18,7 @@ HTTP/1.1 302 Found
 Location: http://www.example.com/test/index2.php
 
 Es un código de estado HTTP que indica una redirección temporal.
-
+Indica que el recurso solicitado se a movido temporalmente a la URL dada por las cabeceras Location
 
 6. Utilizando el filtro de captura para la interfaz de red de Wireshark, analiza la petición
 al host: www.google.com. Mostrando la cabecera IP, la dirección IP de tu ordenador y
