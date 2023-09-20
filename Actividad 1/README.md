@@ -1,7 +1,8 @@
 3. Analiza los headers de las peticiones cuando inicias sesión en el Moodle y comprende
 cómo se obtiene el token. Para ello, necesitamos saber de dónde salen TODOS los
 datos sensibles que se envían.
-.
+
+![token](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/a64f6f04-433e-4df4-b6e6-d0393cdecc3d)
 
 
 
