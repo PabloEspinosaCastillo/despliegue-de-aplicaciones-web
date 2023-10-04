@@ -22,3 +22,28 @@ Ejercicio 3
 
 Antes de buscar la web he intentado cambiar un par de cosas que no funcinaban, otras sitios que tenia que cambiar no se enontraban donde deberian estar y no he podido cambiar. Supongo que el error reside ahí y por eso no funciona.
 
+Ejercicio 4
+
+
+Ejercicio 5
+
+Los archivos de configuración de Apache2 están en `/etc/apache2/`.
+
+- `apache2.conf`: Es el archivo principal de configuración de Apache2. Contiene la configuración global, los módulos habilitados y otros ajustes generales.
+
+- `sites-available`: Están los archivos de configuración de los sitios web disponibles en el servidor. Cada archivo representa un sitio web y contiene la configuración específica para ese sitio.
+
+- `sites-enabled`: Están los enlaces simbólicos a los archivos de configuración de los sitios web habilitados. Se crean con `a2ensite`, que habilita un sitio web al crear un enlace simbólico en `sites-enabled` que apunta al archivo correspondiente en `sites-available`.
+
+- `mods-available`: Están los archivos de configuración de los módulos disponibles en Apache2. Cada archivo representa un módulo y contiene la configuración para ese módulo.
+
+- `mods-enabled`: Están los enlaces simbólicos a los archivos de configuración de los módulos habilitados. Se crean con `a2enmod`, que habilita un módulo al crear un enlace simbólico en `mods-enabled` que apunta al archivo correspondiente en `mods-available`.
+
+La diferencia entre `sites-available` y `sites-enabled` es que `sites-available` contiene los archivos de configuración de los sitios web disponibles, pero no están activos hasta que se creen enlaces simbólicos en `sites-enabled`. Esto permite habilitar y deshabilitar fácilmente los sitios web sin modificar los archivos de configuración.
+
+La diferencia entre `mods-available` contiene los archivos de configuración de los módulos disponibles, pero no están activos hasta que se creen enlaces simbólicos en `mods-enabled`. Esto permite habilitar o deshabilitar
+
+
+
+
+
