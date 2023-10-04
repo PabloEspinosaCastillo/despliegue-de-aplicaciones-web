@@ -16,7 +16,9 @@ Una petición DELETE es un método utilizado en el protocolo HTTP para eliminar 
 
 Ejercicio 3
 
-
 ![4444](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/ee9edeea-678d-4614-8b66-bf9136347637)
 
 ![web](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/5b1b07cc-67e2-43af-8c11-8c24c7299838)
+
+Antes de buscar la web he intentado cambiar un par de cosas que no funcinaban, otras sitios que tenia que cambiar no se enontraban donde deberian estar y no he podido cambiar. Supongo que el error reside ahí y por eso no funciona.
+
