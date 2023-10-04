@@ -12,3 +12,10 @@ Una petición POST es un método utilizado en el protocolo HTTP para enviar dato
 Una petición PUT es un método utilizado en el protocolo HTTP para actualizar un recurso específico en el servidor. Similar a una petición POST, pero en este caso, se espera que el servidor reemplace completamente el recurso existente con los datos proporcionados.
 
 Una petición DELETE es un método utilizado en el protocolo HTTP para eliminar un recurso específico en el servidor. Al enviar una petición DELETE, se indica al servidor que elimine el recurso solicitadoy elimina el recurso del servidor.
+
+Ejercicio 3
+
+
+![4444](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/ee9edeea-678d-4614-8b66-bf9136347637)
+
+![web](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/5b1b07cc-67e2-43af-8c11-8c24c7299838)
