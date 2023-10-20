@@ -16,11 +16,13 @@ Una petición DELETE es un método utilizado en el protocolo HTTP para eliminar 
 
 Ejercicio 3
 
-![4444](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/ee9edeea-678d-4614-8b66-bf9136347637)
+![Conf](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/3853053e-f2b7-43f1-9212-368e41f4b4d1)
 
-![web](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/5b1b07cc-67e2-43af-8c11-8c24c7299838)
+![Conf2](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/5fb3ba98-e68c-4797-881a-78956d1e7fea)
 
-Antes de buscar la web he intentado cambiar un par de cosas que no funcinaban, otras sitios que tenia que cambiar no se enontraban donde deberian estar y no he podido cambiar. Supongo que el error reside ahí y por eso no funciona.
+![Error](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/87211b03-e417-40c2-a060-4832b0836106)
+
+Antes de entrar al navegador me salian una par de errores que solucioné, buscando en diferentes sitios y cabmiando continuamente la configuracion no he dado con el error de funcionamineto. Creo que el error reside en la version de debian o algo que se ha instalado mal y por eso no funciona.
 
 Ejercicio 4
 
