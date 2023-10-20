@@ -49,6 +49,23 @@ Recargar: El comando utilizado para recargar la configuración del servidor Apac
 Reiniciar: El comando utilizado para reiniciar el servidor Apache2 es "sudo service apache2 restart" en Debian. Este comando detiene y luego inicia nuevamente el servidor, lo que permite aplicar cambios en la configuración y reiniciar el servicio.
 La comprobación de sintaxis se realiza utilizando el binario de Apache, que generalmente se encuentra en /usr/sbin/. El comando utilizado es "sudo apache2ctl configtest" en sistemas basados en Debian. Este comando verifica la sintaxis de la configuración del servidor Apache2 y muestra cualquier error que pueda existir.
 
+Ejercicio 7 
+
+
+
+Ejercicio 8
+
+
+
+Ejercicio 9
+
+
+
+Ejercicio 10
+
+
+
+Ejercicio 11
 
 
 
