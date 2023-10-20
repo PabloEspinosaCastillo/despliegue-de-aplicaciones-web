@@ -59,14 +59,23 @@ Ejercicio 8
 
 Ejercicio 9
 
+En una URL encontramos:
+-Protocolo: El protocolo es el HTTP, HTTPS u otros. Se utilizan para la transferencia de datos.
+-Puerto: El puerto es el puerto de red que se utliza en HTTP que seria 80 y en HTTPS 443. 
+-Parametros: Son valores o datos adicionales que se envian al servidor a través de la URL.
+-Dominio: El dominio es el nombre del sitio web https://www.ejemplo.com, un ejemplo de subdominio seria www.
+-Ruta: La ruta es la ubicacion de la web por ejemplo: https://www.ejemplo.com/Documentos/archivo.html
+-Fragmento: Hace referenecia a una seccion especifica del recurso, ejemplo: https://www.ejemplo.com/pagina.html#prueba1
 
 
 Ejercicio 10
 
-
+El http es un protocolo de transferencia de datos que se utiliza en todo el mundo.
 
 Ejercicio 11
 
+Un archivo .htaccess es un archivo de configuración utilizado en servidores web Apache para controlar la configuració y el comportamiento de un directorio especifico o de todo el sitio web. 
+Como ejemplo de uso se podria utilizar para la reescritura del URL de Apache, cuando el usuario acceda a una URl el servidor la reescribira internamente y mostrara el contenido de la URL deseada.
 
 
 
