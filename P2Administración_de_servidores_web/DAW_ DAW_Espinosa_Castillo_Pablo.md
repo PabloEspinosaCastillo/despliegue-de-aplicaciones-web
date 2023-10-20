@@ -26,6 +26,9 @@ Antes de entrar al navegador me salian una par de errores que solucioné, buscan
 
 Ejercicio 4
 
+En este ejercicio probe a ver si tenia suerte y instale el OpenSSL para ver si este si que funcionaba, configuré el Apache para utilizar el certificado SSL en el puerto 4444, reinicié el servidor pero tampoco funcionó. 
+
+![error2](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/a7582fdd-e7f9-4ba8-b48c-3c8fcf95ea3d)
 
 Ejercicio 5
 
@@ -64,6 +67,9 @@ La rotación de logs en Apache2 es importante para evitar que los archivos de lo
 Para realizar la monitorización en tiempo real de los accesos en el servidor Apache2, se puede utilizar la herramienta "tail -f" en la línea de comandos. Para monitorear el archivo access.log en tiempo real se puede ejecutar el siguiente comando: "tail -f /var/log/apache2/access.log". Esto mostrará las últimas entradas en el archivo y se actualizará automáticamente a medida que se agreguen nuevas entradas.
 
 Para analizar y obtener estadísticas visuales a partir de los logs de Apache2, se puede utilizar la herramienta GoAccess es una herramienta de línea de comandos que analiza los archivos de log de Apache2 y genera informes y estadísticas interactivas. Para instalar GoAccess, se puede utilizar el gestor de paquetes del sistema operativo. En sistemas basados en Debian se puede ejecutar el siguiente comando: "sudo apt-get install goaccess". Se puede ejecutar GoAccess especificando el archivo de log a analizar, por ejemplo: "goaccess /var/log/apache2/access.log". Esto mostrará un informe con estadísticas visuales sobre el tráfico del servidor.
+
+![installgoaccess](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/553bf35a-2592-418e-80eb-6a3b58e951e7)
+
 
 Ejercicio 8
 
