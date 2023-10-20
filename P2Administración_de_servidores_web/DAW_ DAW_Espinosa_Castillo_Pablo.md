@@ -51,11 +51,25 @@ La comprobación de sintaxis se realiza utilizando el binario de Apache, que gen
 
 Ejercicio 7 
 
+Los ficheros de monitorización de Apache2 se encuentran en la ubicación principal del servidor Apache2, que generalmente es /var/log/apache2/ en sistemas basados en Debian (como Ubuntu) y /var/log/httpd/ en sistemas basados en Red Hat (como CentOS).
 
+- error.log: Este archivo registra todos los errores ocurridos en el servidor Apache2, como errores de configuración, errores de acceso a archivos o errores en la ejecución de scripts. Es útil para identificar y solucionar problemas en el servidor.
+
+- access.log: Este archivo registra todas las solicitudes de acceso al servidor Apache2, incluyendo información como la dirección IP del cliente, el recurso solicitado, el código de respuesta HTTP, etc. Proporciona información sobre las visitas al servidor y puede ser utilizado para analizar el tráfico y realizar estadísticas.
+
+La rotación de logs en Apache2 es importante para evitar que los archivos de log crezcan en tamaño indefinidamente y ocupen demasiado espacio en disco. La rotación de logs se configura a través del archivo de configuración de Apache2, generalmente ubicado en /etc/apache2/apache2.conf en sistemas basados en Debian y /etc/httpd/conf/httpd.conf en sistemas basados en Red Hat. En este archivo, se pueden especificar los parámetros de rotación de logs, como el tamaño máximo de cada archivo de log y la cantidad de archivos de log a mantener.
+
+Para realizar la monitorización en tiempo real de los accesos y posibles errores en el servidor Apache2, se puede utilizar la herramienta "tail -f" en la línea de comandos. Por ejemplo, para monitorear el archivo access.log en tiempo real, se puede ejecutar el siguiente comando: "tail -f /var/log/apache2/access.log". Esto mostrará las últimas entradas en el archivo y se actualizará automáticamente a medida que se agreguen nuevas entradas.
+
+Para analizar y obtener estadísticas visuales a partir de los logs de Apache2, se puede utilizar la herramienta "goaccess". GoAccess es una herramienta de línea de comandos que analiza los archivos de log de Apache2 y genera informes y estadísticas interactivas. Para instalar GoAccess, se puede utilizar el gestor de paquetes del sistema operativo. Por ejemplo, en sistemas basados en Debian, se puede ejecutar el siguiente comando: "sudo apt-get install goaccess". Una vez instalado, se puede ejecutar GoAccess especificando el archivo de log a analizar, por ejemplo: "goaccess /var/log/apache2/access.log". Esto mostrará un informe con estadísticas visuales sobre el tráfico del servidor.
 
 Ejercicio 8
 
+Un Firewall es una medida de seguridad utilizada para controlar el trafico de red y protegerla. 
+Su funcion principal es filtrar y bloquear el trafico no autorizado permitiendo paso solo a las conexines con las condiciones de seguridad establecidas
+Un Firewall es necesario para prevenir ataques como malware, acceso a datos no autorizados de una red o el sistema...
 
+Instalacion firewall:
 
 Ejercicio 9
 
