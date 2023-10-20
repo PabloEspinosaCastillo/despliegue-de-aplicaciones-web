@@ -70,6 +70,8 @@ Para analizar y obtener estadísticas visuales a partir de los logs de Apache2, 
 
 ![installgoaccess](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/553bf35a-2592-418e-80eb-6a3b58e951e7)
 
+![goaccess](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fafefd12-6644-4ca3-ade8-8a91cd534773)
+
 
 Ejercicio 8
 
