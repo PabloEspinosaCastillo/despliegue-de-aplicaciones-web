@@ -27,15 +27,27 @@ Ejercicio 4
 
 Ejercicio 5
 
-Los archivos de configuración de Apache2 están en `/etc/apache2/`.
+Los archivos de configuración de Apache2 están en /etc/apache2/.
 
-- `apache2.conf`: Es el archivo principal de configuración de Apache2. Contiene la configuración global, los módulos habilitados y otros ajustes generales.
+- apache2.conf: Es el archivo principal de configuración de Apache2. Contiene la configuración global, los módulos habilitados y otros ajustes generales.
 
-La diferencia entre `sites-available` y `sites-enabled` es que `sites-available` contiene los archivos de configuración de los sitios web disponibles, pero no están activos hasta que se creen enlaces simbólicos en `sites-enabled`. Esto permite habilitar y deshabilitar fácilmente los sitios web sin modificar los archivos de configuración.
+La diferencia entre sites-available y sites-enabled es que sites-available contiene los archivos de configuración de los sitios web disponibles, pero no están activos hasta que se creen enlaces simbólicos en sites-enabled. Esto permite habilitar y deshabilitar fácilmente los sitios web sin modificar los archivos de configuración.
 
-La diferencia entre `mods-available` contiene los archivos de configuración de los módulos disponibles, pero no están activos hasta que se creen enlaces simbólicos en `mods-enabled`. Esto permite habilitar o deshabilitar
+La diferencia entre mods-available contiene los archivos de configuración de los módulos disponibles, pero no están activos hasta que se creen enlaces simbólicos en mods-enabled. Esto permite habilitar o deshabilitar
 
 Ejercicio 6
+
+Los ficheros de ejecucion de Apache2 se encuentran en diferentes ubicaciones dependiendo del sistema operativo:
+
+En sistemas basados en Debian la ubicacipn principal es /etc/apache2/.
+En sistemas basados en Red Hat la ubicacion principal es /etc/httpd/.
+El control del servicio se realiza utilizando el binario de ejecucion de Apache2 se encuentra en /usr/sbin/.
+
+Iniciar: El comando utilizado para iniciar el servidor Apache2 es "sudo service apache2 start" en Debian. Este comando inicia el servidor y comienza a escuchar las solicitudes entrantes.
+Detener: El comando utilizado para detener el servidor Apache2 es "sudo service apache2 stop" en Debian. Este comando detiene el servidor y deja de escuchar las solicitudes entrantes.
+Recargar: El comando utilizado para recargar la configuración del servidor Apache2 es "sudo service apache2 reload" en Debian. Este comando recarga la configuración del servidor sin detenerlo, lo que permite aplicar cambios en la configuración.
+Reiniciar: El comando utilizado para reiniciar el servidor Apache2 es "sudo service apache2 restart" en Debian. Este comando detiene y luego inicia nuevamente el servidor, lo que permite aplicar cambios en la configuración y reiniciar el servicio.
+La comprobación de sintaxis se realiza utilizando el binario de Apache, que generalmente se encuentra en /usr/sbin/. El comando utilizado es "sudo apache2ctl configtest" en sistemas basados en Debian. Este comando verifica la sintaxis de la configuración del servidor Apache2 y muestra cualquier error que pueda existir.
 
 
 
