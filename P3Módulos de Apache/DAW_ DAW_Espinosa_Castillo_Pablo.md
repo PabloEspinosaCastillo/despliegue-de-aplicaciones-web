@@ -17,3 +17,6 @@ Després guardem els cambis i reiniciem
 
 ![5](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/bbb800ce-3c40-4d42-bac9-69c0a9461a4a)
 ![6](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fcaa373d-70ca-4a15-9b9d-c3ca3a619e56)
+
+3
+
