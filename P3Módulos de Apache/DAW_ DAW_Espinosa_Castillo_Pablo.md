@@ -7,6 +7,8 @@ El mod_info proporciona informació detallada sobre la configuració i l'estat d
 
 2
 
-Para ocultar la versió del sistema i sistema de apache hem de editar el archiu sudo nano /etc/apache2/conf-enabled/security.conf buscar on posa ServerTokens i cambiar el seu valor a "Prod" i el ServerSignature a "Off".
+Per ocultar la versió del sistema i sistema de apache hem de editar el archiu sudo nano /etc/apache2/conf-enabled/security.conf buscar on posa ServerTokens i cambiar el seu valor a "Prod" i el ServerSignature a "Off".
 
 ![3](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/7abdb87b-57d1-4aef-96f0-7fd5fb6a82ea)
+
+![4](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/b5a11325-474b-4e04-b5ef-4590d4e9e256)
