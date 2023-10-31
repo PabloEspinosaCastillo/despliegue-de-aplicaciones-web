@@ -12,3 +12,8 @@ Per ocultar la versió del sistema i sistema de apache hem de editar el archiu s
 ![3](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/7abdb87b-57d1-4aef-96f0-7fd5fb6a82ea)
 
 ![4](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/b5a11325-474b-4e04-b5ef-4590d4e9e256)
+
+Després guardem els cambis i reiniciem 
+
+![5](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/bbb800ce-3c40-4d42-bac9-69c0a9461a4a)
+![6](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fcaa373d-70ca-4a15-9b9d-c3ca3a619e56)
