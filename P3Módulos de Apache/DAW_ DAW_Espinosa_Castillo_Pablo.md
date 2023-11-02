@@ -39,4 +39,6 @@ Para personalitzar el aspecte primer ens aseguram de que el autoindex està habi
 ![mod](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/4c0b6c15-7aa2-412f-9c8d-c79864cd2f62)
 Obrim el archiu de configuració apache2.conf
 ![apache1](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/38e43136-3616-483a-bc73-a98ae966a790)
+Dintre d'aquest ens asegurem de que en <Directory /var/www/html> es trobi l'opció Options Indexes FollowSymLinks activada
+![indexes](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/3bd6eacf-e666-4110-bfde-893a41d505d3)
 
