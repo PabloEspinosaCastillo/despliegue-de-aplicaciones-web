@@ -35,4 +35,8 @@ He intentat investigar el motiu però no he trobat res que resolgui el perquè f
 
 5
 
+Para personalitzar el aspecte primer ens aseguram de que el autoindex està habilitat 
+![mod](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/4c0b6c15-7aa2-412f-9c8d-c79864cd2f62)
+Obrim el archiu de configuració apache2.conf
+![apache1](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/38e43136-3616-483a-bc73-a98ae966a790)
 
