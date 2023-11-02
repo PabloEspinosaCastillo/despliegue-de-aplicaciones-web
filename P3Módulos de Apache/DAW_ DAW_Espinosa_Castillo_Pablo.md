@@ -59,9 +59,11 @@ Per utilitzar el archiu css hem d'editar la configuració novament. Aquesta vega
 
 ![html](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fb068052-0dfd-4fcd-83bd-0056fc974ba9)
 
+Després he creat els archius css i html per deixar-lo tot funcional.
 
+![css1](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/f514a65d-ddd5-4460-af71-47bbc5257a64)
 
-
+![html1](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/12729b69-2b8d-435d-bbc1-0864663c3361)
 
 
 
