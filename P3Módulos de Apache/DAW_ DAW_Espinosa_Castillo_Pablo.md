@@ -20,3 +20,19 @@ Després guardem els cambis i reiniciem
 
 3
 
+Per crear les carpetas public i private hem de picar dos mkdir i a la carpeta publica fer un chmod 755 per fer-la pública. 
+![appache](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/c6108216-9109-42bc-9d65-ec715970ee06)
+Seguidament hem de crear un archiu .htaccess dintre de la carpeta principal del servidor amb el seguent codi:
+![htaccess](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/65da7c77-1469-4ba0-ab28-5541d60debd0)
+Finalment guerdem els canivs, reiniciem el servidor de apache i cerquem la carpeta public.
+![restart](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/49547a39-45ad-45fe-b0d4-e59fe8da2bb8)
+![public](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/36410418-62c3-4dc3-b5e0-2ced63e5089c)
+
+4
+
+He intentat investigar el motiu però no he trobat res que resolgui el perquè funciona sense tocar res del mòdul mod_rewrite, però m'agradaria saber-ho.
+![wwwpublic](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/f44a7c87-cb49-438a-a5d4-d62ae419a108)
+
+5
+
+
