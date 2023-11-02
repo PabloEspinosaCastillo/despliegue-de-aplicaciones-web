@@ -41,4 +41,15 @@ Obrim el archiu de configuració apache2.conf
 ![apache1](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/38e43136-3616-483a-bc73-a98ae966a790)
 Dintre d'aquest ens asegurem de que en <Directory /var/www/html> es trobi l'opció Options Indexes FollowSymLinks activada
 ![indexes](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/3bd6eacf-e666-4110-bfde-893a41d505d3)
+Guardem i reiniciem.
+Per utilitzar el archiu css hem d'editar la configuració novament. Aquesta vegada hemm de trobar <Directory /var/www/html> (en el meu cas l'he tingut que crear) i afegir el seguent:
+![html](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fb068052-0dfd-4fcd-83bd-0056fc974ba9)
+
+
+
+
+
+
+
+
 
