@@ -29,3 +29,6 @@ Una vez creados editamos los archivos de configuración.
 ![8](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fc68d71e-87d7-48e9-99c8-4ed1f51aac74)
 
 ![9](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/66593027-b2b9-48d9-9089-00f13ecbd08f)
+
+Habilitamos los sitios web recién creados con a2ensite.
+
