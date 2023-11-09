@@ -36,7 +36,13 @@ Habilitamos los sitios web recién creados con a2ensite.
 
 ![11](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/3f7d4e38-e947-4304-a080-e403b36efe54)
 
+Añadimos las entradas correspondientes en el archivo de hosts del servidor y reiniciamos apache
 
+![12](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/cc480b2f-2df9-4292-9990-4c497ae012c7)
 
+Finalmente podemos comprobar que todo funciona correctamente
 
+![13](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/6d361603-de5c-4091-8927-20d7f1daa1f2)
+
+![14](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/2600e59d-550b-4094-99e6-1dabbec5e0d1)
 
