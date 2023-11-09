@@ -20,8 +20,12 @@ Añadimos tambien el html con el currículum y un css para que se visualize corr
 
 ![6](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/1fade8bf-5f32-40d0-8d3f-958f970616fe)
 
-Al acabarlos tenemos que crear los archivos de configuración para cada uno de los dominios
+Al acabarlos tenemos que crear los archivos de configuración para cada uno de los dominios.
 
 ![7](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/014920b5-3b3f-4673-a10c-97486ea0645a)
 
+Una vez creados editamos los archivos de configuración.
 
+![8](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/fc68d71e-87d7-48e9-99c8-4ed1f51aac74)
+
+![9](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/66593027-b2b9-48d9-9089-00f13ecbd08f)
