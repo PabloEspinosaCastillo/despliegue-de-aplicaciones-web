@@ -11,3 +11,9 @@ Dentro del directorio creamos el archivo html y el css.
 ![3](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/119ea338-cdee-4068-8e41-f76aba0601f3)
 
 A continuación creamos el segundo directorio.
+
+![4](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/f3ab1b0b-aea7-4689-a028-f3a25e0d76dc)
+
+Añadimos tambien el html con el currículum y un css para que se visualize correctamente.
+
+![5](https://github.com/PabloEspinosaCastillo/despliegue-de-aplicaciones-web/assets/144775391/141a000d-9e46-444b-b698-a686d118b937)
